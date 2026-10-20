@@ -1,0 +1,244 @@
+﻿ID roteiro;Disciplina;Subtópico;Prioridade pedagógica;Dia sugerido;Aula sugerida;IDs das questões relacionadas;Correspondência textual;Situação da validação pedagógica
+P-001;Língua Portuguesa;Compreensão de textos;P1;2026-10-22;Interpretação de textos: explícito, implícito e inferência;Q-P-003;não;não validado pedagogicamente
+P-002;Língua Portuguesa;Interpretação de textos;P1;2026-10-22;Interpretação de textos: explícito, implícito e inferência;Q-P-003;não;não validado pedagogicamente
+P-003;Língua Portuguesa;Gêneros de texto;P2;2026-10-22;Interpretação de textos: explícito, implícito e inferência;Q-P-019,Q-P-020;não;não validado pedagogicamente
+P-004;Língua Portuguesa;Tipos de texto;P2;2026-10-22;Interpretação de textos: explícito, implícito e inferência;Q-P-019,Q-P-020;não;não validado pedagogicamente
+P-005;Língua Portuguesa;Significação das palavras;P1;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-008,Q-P-016,Q-P-021;não;não validado pedagogicamente
+P-006;Língua Portuguesa;Articulação textual: operadores sequenciais;P1;2026-10-22;Interpretação de textos: explícito, implícito e inferência;Q-P-001,Q-P-002,Q-P-017;não;não validado pedagogicamente
+P-007;Língua Portuguesa;Articulação textual: expressões referenciais;P1;2026-10-22;Interpretação de textos: explícito, implícito e inferência;Q-P-001,Q-P-002,Q-P-017,Q-P-018;não;não validado pedagogicamente
+P-008;Língua Portuguesa;Coesão textual;P1;2026-10-22;Interpretação de textos: explícito, implícito e inferência;Q-P-001,Q-P-002,Q-P-017;não;não validado pedagogicamente
+P-009;Língua Portuguesa;Coerência textual;P1;2026-10-22;Interpretação de textos: explícito, implícito e inferência;Q-P-001,Q-P-002,Q-P-017;não;não validado pedagogicamente
+P-010;Língua Portuguesa;Figuras de sintaxe;P2;2026-12-11;Sintaxe, semântica e figuras de linguagem;Q-P-010;sim;vinculação preliminar — requer auditoria pedagógica
+P-011;Língua Portuguesa;Figuras de linguagem;P2;2026-12-11;Sintaxe, semântica e figuras de linguagem;Q-P-010;sim;vinculação preliminar — requer auditoria pedagógica
+P-012;Língua Portuguesa;Identificação das classes de palavras;P1;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-008,Q-P-016,Q-P-021;sim;vinculação preliminar — requer auditoria pedagógica
+P-013;Língua Portuguesa;Definição das classes de palavras;P2;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-008,Q-P-016,Q-P-021;sim;vinculação preliminar — requer auditoria pedagógica
+P-014;Língua Portuguesa;Classificação das classes de palavras;P1;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-008,Q-P-016,Q-P-021;sim;vinculação preliminar — requer auditoria pedagógica
+P-015;Língua Portuguesa;Flexão das classes de palavras;P1;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-008,Q-P-016,Q-P-021;sim;vinculação preliminar — requer auditoria pedagógica
+P-016;Língua Portuguesa;Emprego das classes de palavras;P1;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-008,Q-P-016,Q-P-021;sim;vinculação preliminar — requer auditoria pedagógica
+P-017;Língua Portuguesa;Formação de palavras;P2;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-008,Q-P-016,Q-P-021;sim;vinculação preliminar — requer auditoria pedagógica
+P-018;Língua Portuguesa;Verbos: flexão;P1;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-014,Q-P-015;não;não validado pedagogicamente
+P-019;Língua Portuguesa;Verbos: conjugação;P1;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-014,Q-P-015;não;não validado pedagogicamente
+P-020;Língua Portuguesa;Verbos: vozes verbais;P2;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-014,Q-P-015;não;não validado pedagogicamente
+P-021;Língua Portuguesa;Verbos: correlação entre tempos verbais;P1;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-014,Q-P-015;não;não validado pedagogicamente
+P-022;Língua Portuguesa;Verbos: correlação entre modos verbais;P1;2026-11-12;Morfologia: classes de palavras, formação e verbos;Q-P-014,Q-P-015;não;não validado pedagogicamente
+P-023;Língua Portuguesa;Concordância verbal;P1;2026-11-02;Concordância, regência e crase;Q-P-005,Q-P-006,Q-P-022,Q-P-023;não;não validado pedagogicamente
+P-024;Língua Portuguesa;Concordância nominal;P1;2026-11-02;Concordância, regência e crase;Q-P-005,Q-P-006,Q-P-022;sim;vinculação preliminar — requer auditoria pedagógica
+P-025;Língua Portuguesa;Regência verbal;P1;2026-11-02;Concordância, regência e crase;Q-P-005,Q-P-022,Q-P-023;não;não validado pedagogicamente
+P-026;Língua Portuguesa;Regência nominal;P1;2026-11-02;Concordância, regência e crase;Q-P-006,Q-P-023;sim;vinculação preliminar — requer auditoria pedagógica
+P-027;Língua Portuguesa;Crase;P1;2026-11-02;Concordância, regência e crase;Q-P-004;sim;vinculação preliminar — requer auditoria pedagógica
+P-028;Língua Portuguesa;Colocação pronominal;P1;2026-10-22;Interpretação de textos: explícito, implícito e inferência;;não;não validado pedagogicamente
+P-029;Língua Portuguesa;Estrutura da oração: aspectos sintáticos;P1;2026-12-11;Sintaxe, semântica e figuras de linguagem;Q-P-009,Q-P-011;não;não validado pedagogicamente
+P-030;Língua Portuguesa;Estrutura da oração: aspectos semânticos;P2;2026-12-11;Sintaxe, semântica e figuras de linguagem;Q-P-009,Q-P-011;não;não validado pedagogicamente
+P-031;Língua Portuguesa;Estrutura do período: aspectos sintáticos;P1;2026-12-11;Sintaxe, semântica e figuras de linguagem;Q-P-009,Q-P-011;não;não validado pedagogicamente
+P-032;Língua Portuguesa;Estrutura do período: aspectos semânticos;P2;2026-12-11;Sintaxe, semântica e figuras de linguagem;Q-P-009,Q-P-011;não;não validado pedagogicamente
+P-033;Língua Portuguesa;Acentuação gráfica;P1;2026-11-26;Pontuação, acentuação e ortografia;Q-P-012;não;não validado pedagogicamente
+P-034;Língua Portuguesa;Ortografia;P1;2026-11-26;Pontuação, acentuação e ortografia;Q-P-013;sim;vinculação preliminar — requer auditoria pedagógica
+P-035;Língua Portuguesa;Pontuação;P1;2026-11-26;Pontuação, acentuação e ortografia;Q-P-007;sim;vinculação preliminar — requer auditoria pedagógica
+P-036;Língua Portuguesa;Variação linguística;P2;2026-10-22;Interpretação de textos: explícito, implícito e inferência;Q-P-024;não;não validado pedagogicamente
+R-001;Raciocínio Lógico;Proposições lógicas;P1;2026-10-24;Lógica proposicional e conectivos;;não;não validado pedagogicamente
+R-002;Raciocínio Lógico;Conectivos lógicos;P1;2026-10-24;Lógica proposicional e conectivos;Q-R-001,Q-R-011;não;não validado pedagogicamente
+R-003;Raciocínio Lógico;Equivalência lógica;P1;2026-10-24;Lógica proposicional e conectivos;Q-R-002,Q-R-003,Q-R-022;não;não validado pedagogicamente
+R-004;Raciocínio Lógico;Implicação lógica;P1;2026-10-24;Lógica proposicional e conectivos;Q-R-002,Q-R-003,Q-R-022;não;não validado pedagogicamente
+R-005;Raciocínio Lógico;Argumentos válidos;P1;2026-10-24;Lógica proposicional e conectivos;Q-R-014;não;não validado pedagogicamente
+R-006;Raciocínio Lógico;Problemas com tabelas;P1;2026-11-07;Conjuntos, operações e problemas;Q-R-019;não;não validado pedagogicamente
+R-007;Raciocínio Lógico;Problemas de argumentação;P1;2026-11-07;Conjuntos, operações e problemas;Q-R-019;não;não validado pedagogicamente
+R-008;Raciocínio Lógico;Notação dos conjuntos;P2;2026-11-07;Conjuntos, operações e problemas;Q-R-004,Q-R-013;não;não validado pedagogicamente
+R-009;Raciocínio Lógico;Representação dos conjuntos;P2;2026-11-07;Conjuntos, operações e problemas;Q-R-004,Q-R-013;não;não validado pedagogicamente
+R-010;Raciocínio Lógico;Elementos de um conjunto e relação de pertinência;P2;2026-11-07;Conjuntos, operações e problemas;;não;não validado pedagogicamente
+R-011;Raciocínio Lógico;Igualdade de conjuntos;P2;2026-11-07;Conjuntos, operações e problemas;Q-R-004,Q-R-013;não;não validado pedagogicamente
+R-012;Raciocínio Lógico;Relação de inclusão;P2;2026-10-24;Lógica proposicional e conectivos;;não;não validado pedagogicamente
+R-013;Raciocínio Lógico;Subconjuntos;P2;2026-10-24;Lógica proposicional e conectivos;Q-R-012;não;não validado pedagogicamente
+R-014;Raciocínio Lógico;Conjunto unitário;P3;2026-10-24;Lógica proposicional e conectivos;;não;não validado pedagogicamente
+R-015;Raciocínio Lógico;Conjunto vazio;P3;2026-11-07;Conjuntos, operações e problemas;Q-R-012;não;não validado pedagogicamente
+R-016;Raciocínio Lógico;Conjunto das partes;P2;2026-10-24;Lógica proposicional e conectivos;Q-R-012;não;não validado pedagogicamente
+R-017;Raciocínio Lógico;Formas de representação dos conjuntos;P2;2026-11-07;Conjuntos, operações e problemas;Q-R-004,Q-R-013;não;não validado pedagogicamente
+R-018;Raciocínio Lógico;Conjuntos finitos e infinitos;P2;2026-11-07;Conjuntos, operações e problemas;Q-R-004,Q-R-013;não;não validado pedagogicamente
+R-019;Raciocínio Lógico;Conjunto universo;P2;2026-10-24;Lógica proposicional e conectivos;;não;não validado pedagogicamente
+R-020;Raciocínio Lógico;Operações com conjuntos;P1;2026-11-07;Conjuntos, operações e problemas;Q-R-004,Q-R-013;não;não validado pedagogicamente
+R-021;Raciocínio Lógico;União de conjuntos;P1;2026-11-07;Conjuntos, operações e problemas;Q-R-004,Q-R-013;não;não validado pedagogicamente
+R-022;Raciocínio Lógico;Operação de adição;P2;2026-10-24;Lógica proposicional e conectivos;;não;não validado pedagogicamente
+R-023;Raciocínio Lógico;Operação de subtração;P2;2026-10-24;Lógica proposicional e conectivos;;não;não validado pedagogicamente
+R-024;Raciocínio Lógico;Operação de multiplicação;P2;2026-10-24;Lógica proposicional e conectivos;;não;não validado pedagogicamente
+R-025;Raciocínio Lógico;Operação de divisão;P2;2026-10-24;Lógica proposicional e conectivos;;não;não validado pedagogicamente
+R-026;Raciocínio Lógico;Potenciação;P2;2026-10-24;Lógica proposicional e conectivos;Q-R-017;não;não validado pedagogicamente
+R-027;Raciocínio Lógico;Radiciação;P2;2026-10-24;Lógica proposicional e conectivos;Q-R-018;não;não validado pedagogicamente
+R-028;Raciocínio Lógico;Números decimais;P2;2026-11-18;Aritmética, divisibilidade, MDC e MMC;Q-R-015;não;não validado pedagogicamente
+R-029;Raciocínio Lógico;Valor absoluto;P2;2026-11-18;Aritmética, divisibilidade, MDC e MMC;Q-R-007;não;não validado pedagogicamente
+R-030;Raciocínio Lógico;Propriedades do conjunto dos números naturais;P2;2026-11-18;Aritmética, divisibilidade, MDC e MMC;Q-R-015;sim;vinculação preliminar — requer auditoria pedagógica
+R-031;Raciocínio Lógico;Decomposição de naturais em fatores primos;P2;2026-11-18;Aritmética, divisibilidade, MDC e MMC;Q-R-016;sim;vinculação preliminar — requer auditoria pedagógica
+R-032;Raciocínio Lógico;Múltiplos e divisores;P2;2026-11-18;Aritmética, divisibilidade, MDC e MMC;;não;não validado pedagogicamente
+R-033;Raciocínio Lógico;Máximo divisor comum (MDC);P2;2026-10-24;Lógica proposicional e conectivos;Q-R-005,Q-R-006;não;não validado pedagogicamente
+R-034;Raciocínio Lógico;Mínimo múltiplo comum (MMC);P2;2026-10-24;Lógica proposicional e conectivos;Q-R-005,Q-R-006;não;não validado pedagogicamente
+R-035;Raciocínio Lógico;Problemas de verdades e mentiras;P1;2026-11-07;Conjuntos, operações e problemas;Q-R-019,Q-R-023;não;não validado pedagogicamente
+R-036;Raciocínio Lógico;Sequências numéricas;P1;2026-10-24;Lógica proposicional e conectivos;Q-R-010,Q-R-021,Q-R-024;não;não validado pedagogicamente
+R-037;Raciocínio Lógico;Sequências com figuras;P1;2026-10-24;Lógica proposicional e conectivos;Q-R-010,Q-R-021,Q-R-024;não;não validado pedagogicamente
+R-038;Raciocínio Lógico;Sequências de palavras;P2;2026-10-24;Lógica proposicional e conectivos;Q-R-010,Q-R-021,Q-R-024;não;não validado pedagogicamente
+R-039;Raciocínio Lógico;Análise combinatória;P2;2026-11-28;Combinatória e probabilidade: métodos rápidos;Q-R-008;não;não validado pedagogicamente
+R-040;Raciocínio Lógico;Probabilidade;P2;2026-11-28;Combinatória e probabilidade: métodos rápidos;Q-R-009,Q-R-020;sim;vinculação preliminar — requer auditoria pedagógica
+R-041;Raciocínio Lógico;Problemas envolvendo raciocínio lógico;P1;2026-11-07;Conjuntos, operações e problemas;Q-R-019;não;não validado pedagogicamente
+I-001;Noções de Informática;Windows 10: conceitos básicos;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-001;não;não validado pedagogicamente
+I-002;Noções de Informática;Uso de janelas;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;;sim;vinculação preliminar — requer auditoria pedagógica
+I-003;Noções de Informática;Uso de menus;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-004;Noções de Informática;Barra de tarefas;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-005;Noções de Informática;Área de trabalho;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-006;Noções de Informática;Localização de arquivos e pastas;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-002,Q-I-023;sim;vinculação preliminar — requer auditoria pedagógica
+I-007;Noções de Informática;Criação de arquivos e pastas;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-002,Q-I-023;não;não validado pedagogicamente
+I-008;Noções de Informática;Cópia de arquivos e pastas;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-002,Q-I-023;não;não validado pedagogicamente
+I-009;Noções de Informática;Movimentação de arquivos e pastas;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-002,Q-I-023;não;não validado pedagogicamente
+I-010;Noções de Informática;Exclusão de arquivos e pastas;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-002,Q-I-023;sim;vinculação preliminar — requer auditoria pedagógica
+I-011;Noções de Informática;Compartilhamento de arquivos;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-002,Q-I-023;não;não validado pedagogicamente
+I-012;Noções de Informática;Área de transferência;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-013;Noções de Informática;Configuração de resolução de tela;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-014;Noções de Informática;Configuração de cores;P3;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-015;Noções de Informática;Configuração de fontes;P3;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-016;Noções de Informática;Configuração de impressoras;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-017;Noções de Informática;Windows Explorer / Explorador de Arquivos;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-001,Q-I-002,Q-I-023;sim;vinculação preliminar — requer auditoria pedagógica
+I-018;Noções de Informática;Noções de Internet;P1;2026-11-05;Internet, redes e segurança básica;Q-I-003,Q-I-017;não;não validado pedagogicamente
+I-019;Noções de Informática;Noções de Intranet;P2;2026-11-05;Internet, redes e segurança básica;Q-I-003;não;não validado pedagogicamente
+I-020;Noções de Informática;Ferramentas e aplicativos de Internet;P1;2026-11-05;Internet, redes e segurança básica;Q-I-003,Q-I-017;não;não validado pedagogicamente
+I-021;Noções de Informática;Navegadores;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-022;Noções de Informática;Pesquisa e busca na Internet;P1;2026-11-05;Internet, redes e segurança básica;Q-I-003,Q-I-017;não;não validado pedagogicamente
+I-023;Noções de Informática;Princípios de IA aplicada a softwares;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-024;Noções de Informática;Princípios de IA aplicada a ferramentas de produtividade;P2;2026-11-24;Microsoft 365: Teams, Outlook, nuvem e IA;;não;não validado pedagogicamente
+I-025;Noções de Informática;Assistentes virtuais;P2;2026-11-24;Microsoft 365: Teams, Outlook, nuvem e IA;;não;não validado pedagogicamente
+I-026;Noções de Informática;Automação de tarefas;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-027;Noções de Informática;Word: elaboração e edição de documentos;P1;2026-11-14;Microsoft 365: Word, Excel e PowerPoint;Q-I-008;sim;vinculação preliminar — requer auditoria pedagógica
+I-028;Noções de Informática;Excel: elaboração e edição de planilhas;P1;2026-11-14;Microsoft 365: Word, Excel e PowerPoint;Q-I-005,Q-I-006,Q-I-007;sim;vinculação preliminar — requer auditoria pedagógica
+I-029;Noções de Informática;PowerPoint: elaboração e edição de apresentações;P2;2026-11-14;Microsoft 365: Word, Excel e PowerPoint;Q-I-009;sim;vinculação preliminar — requer auditoria pedagógica
+I-030;Noções de Informática;Teams: colaboração e comunicação;P2;2026-11-24;Microsoft 365: Teams, Outlook, nuvem e IA;Q-I-010;sim;vinculação preliminar — requer auditoria pedagógica
+I-031;Noções de Informática;Outlook: comunicação e organização;P2;2026-11-24;Microsoft 365: Teams, Outlook, nuvem e IA;Q-I-011;não;não validado pedagogicamente
+I-032;Noções de Informática;Formatação de conteúdos no Microsoft 365;P1;2026-11-14;Microsoft 365: Word, Excel e PowerPoint;Q-I-005,Q-I-006,Q-I-007,Q-I-008,Q-I-009,Q-I-010,Q-I-011;não;não validado pedagogicamente
+I-033;Noções de Informática;Organização de conteúdos no Microsoft 365;P2;2026-11-14;Microsoft 365: Word, Excel e PowerPoint;Q-I-005,Q-I-006,Q-I-007,Q-I-008,Q-I-009,Q-I-010,Q-I-011;não;não validado pedagogicamente
+I-034;Noções de Informática;Colaboração em equipe no Microsoft 365;P2;2026-11-24;Microsoft 365: Teams, Outlook, nuvem e IA;Q-I-005,Q-I-006,Q-I-007,Q-I-008,Q-I-009,Q-I-010,Q-I-011;não;não validado pedagogicamente
+I-035;Noções de Informática;Comunicação em equipe no Microsoft 365;P2;2026-11-14;Microsoft 365: Word, Excel e PowerPoint;Q-I-005,Q-I-006,Q-I-007,Q-I-008,Q-I-009,Q-I-010,Q-I-011;não;não validado pedagogicamente
+I-036;Noções de Informática;Integração entre aplicativos Microsoft 365;P2;2026-11-14;Microsoft 365: Word, Excel e PowerPoint;Q-I-005,Q-I-006,Q-I-007,Q-I-008,Q-I-009,Q-I-010,Q-I-011;não;não validado pedagogicamente
+I-037;Noções de Informática;Recursos inteligentes dos aplicativos;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-038;Noções de Informática;Recursos automáticos dos aplicativos;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-039;Noções de Informática;Proteção de dados;P1;2026-11-05;Internet, redes e segurança básica;;não;não validado pedagogicamente
+I-040;Noções de Informática;Vírus e malwares;P1;2026-12-04;Segurança: golpes, backups e protocolos;Q-I-013;não;não validado pedagogicamente
+I-041;Noções de Informática;Golpes digitais;P1;2026-12-04;Segurança: golpes, backups e protocolos;Q-I-012;não;não validado pedagogicamente
+I-042;Noções de Informática;Boas práticas de senhas;P1;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-014;não;não validado pedagogicamente
+I-043;Noções de Informática;Proteção de informações sensíveis;P1;2026-11-05;Internet, redes e segurança básica;;não;não validado pedagogicamente
+I-044;Noções de Informática;Políticas de backup;P2;2026-12-04;Segurança: golpes, backups e protocolos;Q-I-015,Q-I-016;não;não validado pedagogicamente
+I-045;Noções de Informática;Recuperação de dados;P2;2026-12-04;Segurança: golpes, backups e protocolos;;não;não validado pedagogicamente
+I-046;Noções de Informática;Ética digital;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-047;Noções de Informática;Segurança em nuvem;P2;2026-11-24;Microsoft 365: Teams, Outlook, nuvem e IA;Q-I-004,Q-I-014,Q-I-024;não;não validado pedagogicamente
+I-048;Noções de Informática;Ferramentas de inteligência artificial;P2;2026-11-24;Microsoft 365: Teams, Outlook, nuvem e IA;Q-I-021;não;não validado pedagogicamente
+I-049;Noções de Informática;Usos de inteligência artificial;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-021;não;não validado pedagogicamente
+I-050;Noções de Informática;Tipos de backup;P2;2026-12-04;Segurança: golpes, backups e protocolos;Q-I-015,Q-I-016;não;não validado pedagogicamente
+I-051;Noções de Informática;Planos de contingência;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-022;não;não validado pedagogicamente
+I-052;Noções de Informática;Meios de armazenamento de backups;P2;2026-12-04;Segurança: golpes, backups e protocolos;;não;não validado pedagogicamente
+I-053;Noções de Informática;Conceitos de redes de computadores;P2;2026-11-05;Internet, redes e segurança básica;;não;não validado pedagogicamente
+I-054;Noções de Informática;Serviços relacionados à Internet;P2;2026-11-05;Internet, redes e segurança básica;Q-I-003,Q-I-017;não;não validado pedagogicamente
+I-055;Noções de Informática;Tecnologias e protocolos da Internet;P2;2026-11-05;Internet, redes e segurança básica;Q-I-003,Q-I-017;sim;vinculação preliminar — requer auditoria pedagógica
+I-056;Noções de Informática;Ferramentas, aplicativos e procedimentos de Internet/Intranet;P2;2026-11-05;Internet, redes e segurança básica;Q-I-003,Q-I-017;sim;vinculação preliminar — requer auditoria pedagógica
+I-057;Noções de Informática;Fundamentos de computação;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-058;Noções de Informática;Conceitos de hardware;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-018,Q-I-019;não;não validado pedagogicamente
+I-059;Noções de Informática;Conceitos de software;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-020;não;não validado pedagogicamente
+I-060;Noções de Informática;Organização dos computadores;P2;2026-11-14;Microsoft 365: Word, Excel e PowerPoint;;não;não validado pedagogicamente
+I-061;Noções de Informática;Arquitetura dos computadores;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;;não;não validado pedagogicamente
+I-062;Noções de Informática;Componentes de hardware de um computador;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-018,Q-I-019;não;não validado pedagogicamente
+I-063;Noções de Informática;Componentes de software de um computador;P2;2026-10-27;Windows 10: janelas, pastas e arquivos;Q-I-020;não;não validado pedagogicamente
+G-001;Conhecimentos Gerais;Fatos políticos do município, do estado, do Brasil e do mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;não;não validado pedagogicamente
+G-002;Conhecimentos Gerais;Fatos econômicos do município, do estado, do Brasil e do mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;não;não validado pedagogicamente
+G-003;Conhecimentos Gerais;Fatos sociais do município, do estado, do Brasil e do mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019,Q-G-020;não;não validado pedagogicamente
+G-004;Conhecimentos Gerais;Acontecimentos dos últimos 5 anos divulgados na mídia;P1;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-021;não;não validado pedagogicamente
+G-005;Conhecimentos Gerais;Movimentos artísticos locais, estaduais, nacionais e mundiais;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-008;não;não validado pedagogicamente
+G-006;Conhecimentos Gerais;Movimentos culturais locais, estaduais, nacionais e mundiais;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-008,Q-G-022;não;não validado pedagogicamente
+G-007;Conhecimentos Gerais;Movimentos sociais locais, estaduais, nacionais e mundiais;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-008,Q-G-020;não;não validado pedagogicamente
+G-008;Conhecimentos Gerais;Aspectos geográficos do município, estado, Brasil e mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;não;não validado pedagogicamente
+G-009;Conhecimentos Gerais;Aspectos históricos do município, estado, Brasil e mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;sim;vinculação preliminar — requer auditoria pedagógica
+G-010;Conhecimentos Gerais;Aspectos físicos do município, estado, Brasil e mundo;P2;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;não;não validado pedagogicamente
+G-011;Conhecimentos Gerais;Aspectos econômicos do município, estado, Brasil e mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;não;não validado pedagogicamente
+G-012;Conhecimentos Gerais;Aspectos sociais do município, estado, Brasil e mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019,Q-G-020;não;não validado pedagogicamente
+G-013;Conhecimentos Gerais;Aspectos políticos do município, estado, Brasil e mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;não;não validado pedagogicamente
+G-014;Conhecimentos Gerais;Aspectos estatísticos do município, estado, Brasil e mundo;P2;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-013,Q-G-019;não;não validado pedagogicamente
+G-015;Conhecimentos Gerais;Noções de cidadania;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-005,Q-G-017;não;não validado pedagogicamente
+G-016;Conhecimentos Gerais;Símbolos nacionais;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-008;não;não validado pedagogicamente
+G-017;Conhecimentos Gerais;Símbolos estaduais;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-008;não;não validado pedagogicamente
+G-018;Conhecimentos Gerais;Símbolos municipais;P1;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-008,Q-G-014,Q-G-015,Q-G-023;não;não validado pedagogicamente
+G-019;Conhecimentos Gerais;Atualidades: economia;P1;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-004,Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-020;Conhecimentos Gerais;Atualidades: ecologia;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021,Q-G-024;não;não validado pedagogicamente
+G-021;Conhecimentos Gerais;Atualidades: história;P2;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-003,Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-022;Conhecimentos Gerais;Atualidades: política;P1;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-011,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-023;Conhecimentos Gerais;Atualidades: meio ambiente;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-012,Q-G-014,Q-G-018,Q-G-021;não;não validado pedagogicamente
+G-024;Conhecimentos Gerais;Atualidades: justiça;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-025;Conhecimentos Gerais;Atualidades: segurança pública;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-026;Conhecimentos Gerais;Atualidades: saúde;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-016,Q-G-021;não;não validado pedagogicamente
+G-027;Conhecimentos Gerais;Atualidades: cultura;P2;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-007,Q-G-009,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-028;Conhecimentos Gerais;Atualidades: educação;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-029;Conhecimentos Gerais;Atualidades: religião;P3;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-030;Conhecimentos Gerais;Atualidades: qualidade de vida;P3;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-031;Conhecimentos Gerais;Atualidades: esportes;P3;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-032;Conhecimentos Gerais;Atualidades: turismo;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-033;Conhecimentos Gerais;Atualidades: georreferenciamento;P3;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-034;Conhecimentos Gerais;Atualidades: inovações tecnológicas;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-035;Conhecimentos Gerais;Atualidades: inovações científicas;P2;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-007,Q-G-014,Q-G-021;não;não validado pedagogicamente
+G-036;Conhecimentos Gerais;Realidade econômica do município, estado, Brasil e mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;não;não validado pedagogicamente
+G-037;Conhecimentos Gerais;Realidade cultural do município, estado, Brasil e mundo;P2;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;sim;vinculação preliminar — requer auditoria pedagógica
+G-038;Conhecimentos Gerais;Realidade histórica do município, estado, Brasil e mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;não;não validado pedagogicamente
+G-039;Conhecimentos Gerais;Realidade geográfica do município, estado, Brasil e mundo;P1;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;não;não validado pedagogicamente
+G-040;Conhecimentos Gerais;Realidade socioambiental do município, estado, Brasil e mundo;P2;2026-12-05;História, geografia e cultura: Brasil, MG e município;Q-G-019;não;não validado pedagogicamente
+G-041;Conhecimentos Gerais;Notícias em geral: site da Prefeitura de São João del-Rei;P1;2026-10-30;São João del-Rei e Minas Gerais: patrimônio e contexto;Q-G-023;não;não validado pedagogicamente
+L-001;Legislação;Estatuto dos Servidores Públicos de São João del-Rei - texto legal;P1;2026-10-21;Estatuto municipal: ingresso e vida funcional;Q-L-010,Q-L-023;sim;vinculação preliminar — requer auditoria pedagógica
+L-002;Legislação;Lei Orgânica de São João del-Rei - texto legal;P1;2026-10-26;Lei Orgânica: autonomia, competência e controle;Q-L-001,Q-L-002,Q-L-022;não;não validado pedagogicamente
+L-003;Legislação;Estatuto da Pessoa com Deficiência - Lei Brasileira de Inclusão;P2;2026-11-17;Lei Brasileira de Inclusão: conceitos, barreiras e atendimento;Q-L-010,Q-L-013,Q-L-014,Q-L-023;sim;vinculação preliminar — requer auditoria pedagógica
+L-004;Legislação;Conceitos, direitos e garantias previstos na LBI [roteiro de leitura];P2;2026-11-10;Constituição: direitos e garantias fundamentais;;não;não validado pedagogicamente
+L-005;Legislação;Título I - Dos Princípios Fundamentais;P1;2026-10-29;Constituição: princípios fundamentais;;sim;vinculação preliminar — requer auditoria pedagógica
+L-006;Legislação;Art. 5º - direitos e deveres individuais e coletivos;P1;2026-11-10;Constituição: direitos e garantias fundamentais;;sim;vinculação preliminar — requer auditoria pedagógica
+L-007;Legislação;Art. 6º - direitos sociais;P2;2026-11-10;Constituição: direitos e garantias fundamentais;;sim;vinculação preliminar — requer auditoria pedagógica
+L-008;Legislação;Art. 7º - direitos dos trabalhadores;P2;2026-11-10;Constituição: direitos e garantias fundamentais;;sim;vinculação preliminar — requer auditoria pedagógica
+L-009;Legislação;Art. 8º - associação profissional e sindical;P2;2026-10-21;Estatuto municipal: ingresso e vida funcional;;não;não validado pedagogicamente
+L-010;Legislação;Art. 9º - direito de greve;P2;2026-10-21;Estatuto municipal: ingresso e vida funcional;;não;não validado pedagogicamente
+L-011;Legislação;Art. 10 - participação de trabalhadores e empregadores;P3;2026-11-10;Constituição: direitos e garantias fundamentais;;não;não validado pedagogicamente
+L-012;Legislação;Art. 11 - representação de empregados;P3;2026-10-21;Estatuto municipal: ingresso e vida funcional;;não;não validado pedagogicamente
+L-013;Legislação;Art. 12 - nacionalidade;P2;2026-10-21;Estatuto municipal: ingresso e vida funcional;;não;não validado pedagogicamente
+L-014;Legislação;Art. 13 - língua e símbolos oficiais;P2;2026-10-21;Estatuto municipal: ingresso e vida funcional;;não;não validado pedagogicamente
+L-015;Legislação;Art. 29 - organização dos municípios;P1;2026-11-20;Constituição: organização dos Municípios e Administração;;não;não validado pedagogicamente
+L-016;Legislação;Art. 29-A - despesas do Poder Legislativo municipal;P2;2026-10-21;Estatuto municipal: ingresso e vida funcional;;não;não validado pedagogicamente
+L-017;Legislação;Art. 30 - competências dos municípios;P1;2026-11-20;Constituição: organização dos Municípios e Administração;;não;não validado pedagogicamente
+L-018;Legislação;Art. 31 - fiscalização do município;P1;2026-11-04;Estatuto: estágio probatório e deveres do servidor;;não;não validado pedagogicamente
+L-019;Legislação;Art. 37 - regras e princípios da Administração Pública;P1;2026-11-20;Constituição: organização dos Municípios e Administração;Q-L-006;sim;vinculação preliminar — requer auditoria pedagógica
+L-020;Legislação;Art. 38 - servidor público e mandato eletivo;P2;2026-11-04;Estatuto: estágio probatório e deveres do servidor;;não;não validado pedagogicamente
+L-021;Legislação;Art. 39 - regime jurídico e servidores;P2;2026-10-21;Estatuto municipal: ingresso e vida funcional;Q-L-010,Q-L-023;não;não validado pedagogicamente
+L-022;Legislação;Lei Federal nº 14.133/2021 - Lei de Licitações e Contratos;P1;2026-11-27;Lei 14.133/2021: princípios, fases e modalidades;;não;não validado pedagogicamente
+L-023;Legislação;Licitações, contratações e contratos na Lei nº 14.133/2021 [roteiro de leitura];P2;2026-11-27;Lei 14.133/2021: princípios, fases e modalidades;;não;não validado pedagogicamente
+L-024;Legislação;Lei Federal nº 12.527/2011 - Lei de Acesso à Informação;P2;2026-12-09;Lei de Acesso à Informação e Decreto MG 45.969/2012;Q-L-015;não;não validado pedagogicamente
+L-025;Legislação;Decreto Estadual MG nº 45.969/2012 - acesso à informação;P2;2026-12-09;Lei de Acesso à Informação e Decreto MG 45.969/2012;Q-L-015,Q-L-016;sim;vinculação preliminar — requer auditoria pedagógica
+E-001;Conhecimentos Específicos;Contabilidade Pública: conceito;P2;2026-10-23;Contabilidade pública e orçamento: bases;Q-E-016,Q-E-020,Q-E-021;não;não validado pedagogicamente
+E-002;Conhecimentos Específicos;Contabilidade Pública: objeto;P2;2026-10-23;Contabilidade pública e orçamento: bases;Q-E-016,Q-E-020,Q-E-021;não;não validado pedagogicamente
+E-003;Conhecimentos Específicos;Contabilidade Pública: finalidade;P2;2026-10-23;Contabilidade pública e orçamento: bases;Q-E-016,Q-E-020,Q-E-021;não;não validado pedagogicamente
+E-004;Conhecimentos Específicos;Contabilidade Pública: campo de aplicação;P2;2026-10-23;Contabilidade pública e orçamento: bases;Q-E-016,Q-E-020,Q-E-021;não;não validado pedagogicamente
+E-005;Conhecimentos Específicos;Estágios da receita pública;P1;2026-11-09;Receita pública: previsão, lançamento e arrecadação;Q-E-016,Q-E-020,Q-E-021;sim;vinculação preliminar — requer auditoria pedagógica
+E-006;Conhecimentos Específicos;Estágios da despesa pública;P1;2026-11-09;Receita pública: previsão, lançamento e arrecadação;Q-E-016,Q-E-020,Q-E-021;não;não validado pedagogicamente
+E-007;Conhecimentos Específicos;NBC TSP - Estrutura Conceitual;P2;2026-10-23;Contabilidade pública e orçamento: bases;Q-E-022;não;não validado pedagogicamente
+E-008;Conhecimentos Específicos;Tributos de competência do Município;P1;2026-10-28;CTN: competência tributária e espécies;Q-E-002;não;não validado pedagogicamente
+E-009;Conhecimentos Específicos;Atividade financeira estatal;P2;2026-10-20;Fundamentos da tributação: receita, tributo e poder de tributar;;não;não validado pedagogicamente
+E-010;Conhecimentos Específicos;Receita municipal;P2;2026-11-09;Receita pública: previsão, lançamento e arrecadação;Q-E-017,Q-E-021;não;não validado pedagogicamente
+E-011;Conhecimentos Específicos;Rendas municipais;P2;2026-11-03;Tributos municipais: IPTU e cadastro imobiliário;Q-E-002,Q-E-023;não;não validado pedagogicamente
+E-012;Conhecimentos Específicos;Preços públicos;P2;2026-10-20;Fundamentos da tributação: receita, tributo e poder de tributar;;não;não validado pedagogicamente
+E-013;Conhecimentos Específicos;Estrutura tributária municipal: impostos;P1;2026-12-03;Responsabilidade tributária, fiscalização e dívida ativa;Q-E-005,Q-E-011,Q-E-017,Q-E-018;não;não validado pedagogicamente
+E-014;Conhecimentos Específicos;Estrutura tributária municipal: taxas;P1;2026-11-25;Código Tributário Municipal: administração fiscal;Q-E-003,Q-E-005,Q-E-011,Q-E-017,Q-E-018;sim;vinculação preliminar — requer auditoria pedagógica
+E-015;Conhecimentos Específicos;Estrutura tributária municipal: contribuição de melhoria;P2;2026-12-10;Custeio de iluminação pública, taxas e contribuição de melhoria;Q-E-004,Q-E-005,Q-E-011,Q-E-016,Q-E-017,Q-E-018;sim;vinculação preliminar — requer auditoria pedagógica
+E-016;Conhecimentos Específicos;Constituição da República Federativa do Brasil - parte tributária [roteiro];P1;2026-10-28;CTN: competência tributária e espécies;Q-E-005,Q-E-011;não;não validado pedagogicamente
+E-017;Conhecimentos Específicos;Código Tributário Nacional - conceitos, espécies e competência [roteiro];P1;2026-10-28;CTN: competência tributária e espécies;Q-E-017,Q-E-018;sim;vinculação preliminar — requer auditoria pedagógica
+E-018;Conhecimentos Específicos;CTN - obrigação tributária, fato gerador e sujeitos [roteiro];P1;2026-10-31;CTN: obrigação, fato gerador e sujeitos;Q-E-005,Q-E-006,Q-E-011,Q-E-012;sim;vinculação preliminar — requer auditoria pedagógica
+E-019;Conhecimentos Específicos;CTN - crédito tributário e lançamento [roteiro];P1;2026-11-19;Crédito tributário: lançamento e exigibilidade;Q-E-007,Q-E-008,Q-E-009,Q-E-010,Q-E-017;sim;vinculação preliminar — requer auditoria pedagógica
+E-020;Conhecimentos Específicos;CTN - suspensão, extinção e exclusão do crédito [roteiro];P1;2026-11-23;Suspensão, extinção e exclusão do crédito tributário;Q-E-008,Q-E-009,Q-E-010;sim;vinculação preliminar — requer auditoria pedagógica
+E-021;Conhecimentos Específicos;CTN - responsabilidade e administração tributária [roteiro];P2;2026-12-03;Responsabilidade tributária, fiscalização e dívida ativa;Q-E-005,Q-E-011;sim;vinculação preliminar — requer auditoria pedagógica
+E-022;Conhecimentos Específicos;Código Tributário do Município de São João del-Rei;P1;2026-11-25;Código Tributário Municipal: administração fiscal;Q-E-017,Q-E-018;não;não validado pedagogicamente
+E-023;Conhecimentos Específicos;ISSQN - Imposto Sobre Serviços de Qualquer Natureza;P1;2026-11-11;ISSQN e prestação de serviços;Q-E-015;sim;vinculação preliminar — requer auditoria pedagógica
+E-024;Conhecimentos Específicos;IPTU - Imposto Predial e Territorial Urbano;P1;2026-11-03;Tributos municipais: IPTU e cadastro imobiliário;Q-E-012,Q-E-013;sim;vinculação preliminar — requer auditoria pedagógica
+E-025;Conhecimentos Específicos;ITBI - Imposto sobre Transmissão de Bens Imóveis;P1;2026-11-16;ITBI: transmissão onerosa de imóveis;Q-E-014;sim;vinculação preliminar — requer auditoria pedagógica
+E-026;Conhecimentos Específicos;Taxas municipais;P1;2026-11-03;Tributos municipais: IPTU e cadastro imobiliário;Q-E-002,Q-E-003,Q-E-023;não;não validado pedagogicamente
+E-027;Conhecimentos Específicos;Contribuição para Custeio de Iluminação Pública;P2;2026-12-10;Custeio de iluminação pública, taxas e contribuição de melhoria;Q-E-004,Q-E-016,Q-E-020,Q-E-021;sim;vinculação preliminar — requer auditoria pedagógica
+E-028;Conhecimentos Específicos;Imposto: conceitos e características;P1;2026-10-20;Fundamentos da tributação: receita, tributo e poder de tributar;;não;não validado pedagogicamente
+E-029;Conhecimentos Específicos;Imposto sobre Propriedade Territorial e Urbano [redação do anexo];P1;2026-11-03;Tributos municipais: IPTU e cadastro imobiliário;;não;não validado pedagogicamente
+E-030;Conhecimentos Específicos;Fato gerador;P1;2026-10-31;CTN: obrigação, fato gerador e sujeitos;Q-E-012;sim;vinculação preliminar — requer auditoria pedagógica
+E-031;Conhecimentos Específicos;Cadastro imobiliário;P2;2026-11-03;Tributos municipais: IPTU e cadastro imobiliário;Q-E-024;sim;vinculação preliminar — requer auditoria pedagógica
+E-032;Conhecimentos Específicos;Imunidade tributária;P1;2026-12-03;Responsabilidade tributária, fiscalização e dívida ativa;Q-E-005,Q-E-011;não;não validado pedagogicamente
+E-033;Conhecimentos Específicos;Isenção tributária;P1;2026-12-03;Responsabilidade tributária, fiscalização e dívida ativa;Q-E-005,Q-E-011;não;não validado pedagogicamente
+E-034;Conhecimentos Específicos;Lei Orgânica do Município;P1;2026-10-20;Fundamentos da tributação: receita, tributo e poder de tributar;;não;não validado pedagogicamente
+E-035;Conhecimentos Específicos;Ética profissional;P2;2026-10-20;Fundamentos da tributação: receita, tributo e poder de tributar;;não;não validado pedagogicamente
+E-036;Conhecimentos Específicos;Noções básicas de licitações administrativas;P2;2026-12-03;Responsabilidade tributária, fiscalização e dívida ativa;;não;não validado pedagogicamente
+E-037;Conhecimentos Específicos;Noções básicas de contratos administrativos;P2;2026-10-20;Fundamentos da tributação: receita, tributo e poder de tributar;;não;não validado pedagogicamente

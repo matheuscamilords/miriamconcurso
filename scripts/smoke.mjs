@@ -1,0 +1,36 @@
+import { course } from '../src/data/course.js';
+import assert from 'node:assert/strict';
+const listeners={};
+const elements=new Map();
+function element(selector){if(!elements.has(selector))elements.set(selector,{textContent:'',innerHTML:'',value:'',classList:{add(){},remove(){},toggle(){}},addEventListener(evt,cb){listeners[selector+':'+evt]=cb},click(){},querySelectorAll(){return[]}});return elements.get(selector)}
+const navitems=Object.keys({inicio:1,cronograma:1,revisoes:1,simulados:1,erros:1,edital:1,estatisticas:1,fontes:1,ajustes:1}).map(go=>({dataset:{go},classList:{toggle(){}}}));
+const menu=element('#nav');menu.querySelectorAll=()=>navitems;
+global.document={body:{classList:{toggle(){}}},querySelector:element,addEventListener(ev,cb){listeners[ev]=cb},createElement(tag){return{href:'',download:'',click(){}}}};
+global.window={scrollTo(){},addEventListener(ev,cb){listeners['window:'+ev]=cb}};
+global.location={hash:''};
+let store={};global.localStorage={getItem:k=>store[k]||null,setItem:(k,v)=>{store[k]=v}};
+global.confirm=()=>true;global.alert=()=>{};global.URL={createObjectURL:()=>'',revokeObjectURL(){}};
+const event=(action,data={})=>listeners.click({target:{closest(){return{dataset:{action,...data},disabled:false}}}});
+const change=(action,data={},checked=true)=>listeners.change({target:{dataset:{action,...data},checked}});
+await import('../src/app.js');
+assert(element('#content').innerHTML.includes('Seu caminho até a aprovação'),'Início renderizado');
+for(let d of course.days){event('open-day',{id:d.id});let body=element('#content').innerHTML;assert(body.includes(d.title),`Falha ao abrir dia ${d.id}`);}
+event('inicio');event('cronograma');assert(element('#content').innerHTML.includes('47 sessões detalhadas'),'Calendário não abriu');
+event('open-day',{id:'D01'});assert(element('#content').innerHTML.includes('Explicação'),'Teoria ausente');
+change('theory-done',{id:'D01'},true);event('lesson-step',{step:'questoes'});
+const qid=course.days[0].qids[0],key=`DAY:D01:${qid}`;event('pick',{key,index:'0'});event('confirm-question',{day:'D01',id:qid});
+assert(store['miriam-estudos-progress-v1'].includes(qid),'Resposta não persistida');
+event('lesson-step',{step:'correcao'});assert(element('#content').innerHTML.includes('Resultado da sessão'),'Correção não abriu');
+event('simulados');assert(element('#content').innerHTML.includes('Quatro provas completas'),'Simulados ausentes');
+event('open-sim',{id:'SIM-1'});event('start-sim',{id:'SIM-1'});
+assert(element('#content').innerHTML.includes('Questão 1 de 30'),'Prova sem primeira questão');
+event('sim-pick',{id:course.sims[0].qids[0],index:'0'});event('sim-summary');assert(element('#content').innerHTML.includes('ENTREGA')||element('#content').innerHTML.includes('ENTREGA'.toLowerCase())||element('#content').innerHTML.includes('Entregar e corrigir simulado'),'Revisão da prova ausente');
+event('finish-sim',{id:'SIM-1'});assert(element('#content').innerHTML.includes('Gabarito comentado'),'Correção do simulado ausente');
+event('revisoes');assert(element('#content').innerHTML.includes('Flashcards inteligentes'),'Cards ausentes');event('reveal-card');assert(element('#content').innerHTML.includes('Facilmente'),'Cartão não revela verso');
+let candidate=course.flashcards[0].id;event('card-grade',{id:candidate,grade:'2'});assert(store['miriam-estudos-progress-v1'].includes('"cards"'),'Cartões não persistiram');
+event('edital');assert(element('#content').innerHTML.includes('Edital verticalizado'),'Roteiro ausente');
+event('estatisticas');assert(element('#content').innerHTML.includes('Acertos por disciplina'),'Indicadores ausentes');
+event('fontes');assert(element('#content').innerHTML.includes('fontes'),'Biblioteca ausente');
+event('ajustes');assert(element('#content').innerHTML.includes('Exportar backup'),'Backup ausente');
+console.log('SMOKE: OK; páginas, 47 sessões, questão, simulado, cartão e dados locais renderizados e exercitados.');
+process.exit(0);

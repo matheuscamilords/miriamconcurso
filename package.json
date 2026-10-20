@@ -1,0 +1,1 @@
+{"name":"miriam-estudos","version":"1.0.0","private":true,"type":"module","scripts":{"audit":"python3 scripts/audit.py","serve":"python3 -m http.server 8000"}}

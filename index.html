@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0a192b">
+  <meta name="description" content="Miriam Estudos — curso organizado para Agente Fiscal de Tributos de São João del-Rei, IBGP 2026.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <title>Miriam Estudos · IBGP 2026</title>
+  <link rel="stylesheet" href="./src/styles.css">
+</head>
+<body>
+ <div class="shell">
+  <aside class="sidebar" id="sidebar">
+   <a class="brand" href="#inicio" aria-label="Miriam Estudos início"><span class="brand-icon">M</span><span><strong>Miriam<span class="brand-tint"> Estudos</span></strong><small>PREPARAÇÃO IBGP · 2026</small></span></a>
+   <div class="sidebar-caption">SEU ESPAÇO DE ESTUDO</div>
+   <nav id="nav" aria-label="Navegação principal">
+    <button class="nav-item" data-go="inicio">◫ <span>Início</span></button>
+    <button class="nav-item" data-go="cronograma">▦ <span>Cronograma</span></button>
+    <button class="nav-item" data-go="revisoes">↻ <span>Revisões e cards</span></button>
+    <button class="nav-item" data-go="simulados">◈ <span>Simulados</span></button>
+    <button class="nav-item" data-go="erros">▤ <span>Caderno de erros</span></button>
+    <button class="nav-item" data-go="edital">☷ <span>Edital verticalizado</span></button>
+    <button class="nav-item" data-go="estatisticas">▥ <span>Desempenho</span></button>
+    <button class="nav-item" data-go="fontes">☞ <span>Biblioteca e fontes</span></button>
+    <button class="nav-item" data-go="ajustes">⚙ <span>Ajustes e backup</span></button>
+   </nav>
+   <div class="sidebar-bottom"><span class="pill pill-teal">CARGO 325 · NÍVEL MÉDIO</span><p>30 questões • 100 pontos<br>13 de dezembro de 2026</p><span class="tiny">Progresso salvo neste navegador.</span></div>
+  </aside>
+  <div class="workspace">
+   <header class="topbar"><button class="mobile-menu" id="menuToggle" aria-label="Abrir menu">☰</button><span class="topbar-crumb">MIRIAM ESTUDOS <span> / </span> <span id="crumb">Início</span></span><div class="topbar-right"><span class="live-dot"></span><span>Seu tempo de aprender</span><button id="themeToggle" class="theme-toggle" title="Alternar tema" aria-label="Alternar tema">◐</button></div></header>
+   <main class="content" id="content" tabindex="-1"><noscript>Ative JavaScript para utilizar a plataforma.</noscript></main>
+   <footer class="footer">MIRIAM ESTUDOS · Material independente, não afiliado à banca IBGP. Verifique os atos oficiais.</footer>
+  </div>
+ </div>
+ <div class="toast" id="toast" role="status" aria-live="polite"></div>
+ <script type="module" src="./src/app.js"></script>
+</body>
+</html>
