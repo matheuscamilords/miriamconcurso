@@ -1,0 +1,48 @@
+﻿Data;Dia;ID;Disciplina;Tema integral da sessão;Tópicos do edital vinculados;Teoria (min);Questões (min);Revisão (min);Exercícios fixos;Simulado
+2026-10-20;D01;D01;Conhecimentos Específicos;Fundamentos da tributação: receita, tributo e poder de tributar;E-008, E-009, E-010, E-011, E-012, E-013, E-014, E-015, E-028;87;46;17;N-D01-001, N-D01-002, N-D01-003, N-D01-004, Q-E-001, F-D01-01, F-D01-02, F-D01-03;
+2026-10-21;D02;D02;Legislação;Estatuto municipal: ingresso e vida funcional;L-001;87;46;17;N-D02-005, N-D02-006, N-D02-007, Q-L-010, Q-L-011, F-D02-01, F-D02-02, F-D02-03;
+2026-10-22;D03;D03;Língua Portuguesa;Interpretação de textos: explícito, implícito e inferência;P-001, P-002, P-003, P-004, P-005, P-006, P-007, P-008, P-009;87;46;17;N-D03-008, N-D03-009, Q-P-001, Q-P-002, Q-P-003, F-D03-01, F-D03-02, F-D03-03;
+2026-10-23;D04;D04;Conhecimentos Específicos;Contabilidade pública e orçamento: bases;E-001, E-002, E-003, E-004, E-007;87;46;17;N-D04-010, N-D04-011, Q-E-022, Q-E-023, R-D04-01, R-D04-02, R-D04-03, R-D04-04;
+2026-10-24;D05;D05;Raciocínio Lógico;Lógica proposicional e conectivos;R-001, R-002, R-003, R-004, R-005, R-006, R-007;87;46;17;N-D05-012, N-D05-013, Q-R-001, Q-R-002, Q-R-003, Q-R-011, Q-R-014, Q-R-022;
+2026-10-26;D06;D06;Legislação;Lei Orgânica: autonomia, competência e controle;L-002;87;46;17;N-D06-014, N-D06-015, Q-L-001, Q-L-002, Q-L-003, Q-L-022, R-D06-01, R-D06-02;
+2026-10-27;D07;D07;Noções de Informática;Windows 10: janelas, pastas e arquivos;I-001, I-002, I-003, I-004, I-005, I-006, I-007, I-008, I-009, I-010, I-011, I-012, I-013, I-014, I-015, I-016, I-017;87;46;17;N-D07-016, N-D07-017, Q-I-001, Q-I-002, Q-I-023, F-D07-01, F-D07-02, F-D07-03;
+2026-10-28;D08;D08;Conhecimentos Específicos;CTN: competência tributária e espécies;E-016, E-017;87;46;17;N-D08-018, N-D08-019, Q-E-002, Q-E-003, Q-E-004, F-D08-01, F-D08-02, F-D08-03;
+2026-10-29;D09;D09;Legislação;Constituição: princípios fundamentais;L-005;87;46;17;N-D09-020, N-D09-021, Q-L-004, Q-L-005, R-D09-01, R-D09-02, R-D09-03, R-D09-04;
+2026-10-30;D10;D10;Conhecimentos Gerais;São João del-Rei e Minas Gerais: patrimônio e contexto;G-001, G-002, G-003, G-004, G-005, G-006, G-007, G-008, G-009, G-010, G-011, G-012, G-013, G-014;87;46;17;N-D10-022, N-D10-023, Q-G-001, Q-G-002, Q-G-003, Q-G-004, Q-G-005, Q-G-006;
+2026-10-31;D11;D11;Conhecimentos Específicos;CTN: obrigação, fato gerador e sujeitos;E-018;87;46;17;N-D11-024, N-D11-025, Q-E-005, Q-E-006, F-D11-01, F-D11-02, F-D11-03, F-D11-04;
+2026-11-02;D12;D12;Língua Portuguesa;Concordância, regência e crase;P-023, P-024, P-025, P-026, P-027, P-028;87;46;17;N-D12-026, N-D12-027, Q-P-004, Q-P-005, Q-P-006, Q-P-022, Q-P-023, R-D12-01;
+2026-11-03;D13;D13;Conhecimentos Específicos;Tributos municipais: IPTU e cadastro imobiliário;E-024, E-029, E-030, E-031;87;46;17;N-D13-028, N-D13-029, Q-E-012, Q-E-013, Q-E-024, R-D13-01, R-D13-02, R-D13-03;
+2026-11-04;D14;D14;Legislação;Estatuto: estágio probatório e deveres do servidor;L-001;87;46;17;N-D14-030, N-D14-031, Q-L-012, Q-L-023, F-D14-01, F-D14-02, F-D14-03, F-D14-04;
+2026-11-05;D15;D15;Noções de Informática;Internet, redes e segurança básica;I-018, I-019, I-020, I-021, I-022, I-053, I-054, I-055, I-056;87;46;17;N-D15-032, N-D15-033, Q-I-003, Q-I-004, Q-I-012, F-D15-01, F-D15-02, F-D15-03;
+2026-11-06;D16;D16;Simulado;SIMULADO 1 — Diagnóstico interdisciplinar;;;;;;SIM-1
+2026-11-07;D17;D17;Raciocínio Lógico;Conjuntos, operações e problemas;R-008, R-009, R-010, R-011, R-012, R-013, R-014, R-015, R-016, R-017, R-018, R-019, R-020, R-021;87;46;17;N-D17-034, N-D17-035, Q-R-004, Q-R-012, Q-R-013, F-D17-01, F-D17-02, F-D17-03;
+2026-11-09;D18;D18;Conhecimentos Específicos;Receita pública: previsão, lançamento e arrecadação;E-005;87;46;17;N-D18-036, N-D18-037, Q-E-021, F-D18-01, F-D18-02, F-D18-03, F-D18-04, F-D18-05;
+2026-11-10;D19;D19;Legislação;Constituição: direitos e garantias fundamentais;L-006, L-007, L-008, L-009, L-010, L-011, L-012, L-013, L-014;87;46;17;N-D19-038, N-D19-039, Q-L-007, Q-L-008, F-D19-01, F-D19-02, F-D19-03, F-D19-04;
+2026-11-11;D20;D20;Conhecimentos Específicos;ISSQN e prestação de serviços;E-023;87;46;17;N-D20-040, N-D20-041, Q-E-015, R-D20-01, R-D20-02, R-D20-03, R-D20-04, R-D20-05;
+2026-11-12;D21;D21;Língua Portuguesa;Morfologia: classes de palavras, formação e verbos;P-012, P-013, P-014, P-015, P-016, P-017, P-018, P-019, P-020, P-021, P-022;87;46;17;N-D21-042, N-D21-043, Q-P-008, Q-P-014, Q-P-015, F-D21-01, F-D21-02, F-D21-03;
+2026-11-13;D22;D22;Legislação;Lei Orgânica: Câmara, Prefeitura e orçamento;L-002;87;46;17;N-D22-044, N-D22-045, Q-L-009, Q-L-022, R-D22-01, R-D22-02, R-D22-03, R-D22-04;
+2026-11-14;D23;D23;Noções de Informática;Microsoft 365: Word, Excel e PowerPoint;I-027, I-028, I-029;87;46;17;N-D23-046, N-D23-047, Q-I-005, Q-I-006, Q-I-007, F-D23-01, F-D23-02, F-D23-03;
+2026-11-16;D24;D24;Conhecimentos Específicos;ITBI: transmissão onerosa de imóveis;E-025;87;46;17;N-D24-048, N-D24-049, Q-E-014, F-D24-01, F-D24-02, F-D24-03, F-D24-04, R-D24-01;
+2026-11-17;D25;D25;Legislação;Lei Brasileira de Inclusão: conceitos, barreiras e atendimento;L-003, L-004;87;46;17;N-D25-050, N-D25-051, Q-L-013, Q-L-014, R-D25-01, R-D25-02, R-D25-03, R-D25-04;
+2026-11-18;D26;D26;Raciocínio Lógico;Aritmética, divisibilidade, MDC e MMC;R-022, R-023, R-024, R-025, R-026, R-027, R-028, R-029, R-030, R-031, R-032, R-033, R-034, R-035, R-036, R-037, R-038;87;46;17;N-D26-052, N-D26-053, Q-R-005, Q-R-006, Q-R-007, Q-R-010, Q-R-015, Q-R-016;
+2026-11-19;D27;D27;Conhecimentos Específicos;Crédito tributário: lançamento e exigibilidade;E-019;87;46;17;N-D27-054, N-D27-055, Q-E-007, F-D27-01, F-D27-02, F-D27-03, F-D27-04, F-D27-05;
+2026-11-20;D28;D28;Legislação;Constituição: organização dos Municípios e Administração;L-015, L-016, L-017, L-018, L-019, L-020, L-021;87;46;17;N-D28-056, N-D28-057, Q-L-006, Q-L-021, Q-L-024, R-D28-01, R-D28-02, R-D28-03;
+2026-11-21;D29;D29;Simulado;SIMULADO 2 — Consolidação dos fundamentos;;;;;;SIM-2
+2026-11-23;D30;D30;Conhecimentos Específicos;Suspensão, extinção e exclusão do crédito tributário;E-020;87;46;17;N-D30-058, N-D30-059, Q-E-008, Q-E-009, Q-E-010, F-D30-01, F-D30-02, F-D30-03;
+2026-11-24;D31;D31;Noções de Informática;Microsoft 365: Teams, Outlook, nuvem e IA;I-023, I-024, I-025, I-026, I-030, I-031, I-032, I-033, I-034, I-035, I-036, I-037, I-038, I-048, I-049;87;46;17;N-D31-060, N-D31-061, Q-I-010, Q-I-011, Q-I-021, Q-I-024, R-D31-01, R-D31-02;
+2026-11-25;D32;D32;Conhecimentos Específicos;Código Tributário Municipal: administração fiscal;E-022;87;46;17;N-D32-062, N-D32-063, Q-E-017, Q-E-018, Q-E-019, R-D32-01, R-D32-02, R-D32-03;
+2026-11-26;D33;D33;Língua Portuguesa;Pontuação, acentuação e ortografia;P-033, P-034, P-035;87;46;17;N-D33-064, N-D33-065, Q-P-007, Q-P-012, Q-P-013, R-D33-01, R-D33-02, R-D33-03;
+2026-11-27;D34;D34;Legislação;Lei 14.133/2021: princípios, fases e modalidades;L-022, L-023;87;46;17;N-D34-066, N-D34-067, Q-L-018, Q-L-019, Q-L-020, F-D34-01, F-D34-02, F-D34-03;
+2026-11-28;D35;D35;Raciocínio Lógico;Combinatória e probabilidade: métodos rápidos;R-039, R-040, R-041;87;46;17;N-D35-068, N-D35-069, Q-R-008, Q-R-009, Q-R-020, F-D35-01, F-D35-02, F-D35-03;
+2026-11-30;D36;D36;Conhecimentos Específicos;Despesas públicas: empenho, liquidação e pagamento;E-006;87;46;17;N-D36-070, N-D36-071, Q-E-020, R-D36-01, R-D36-02, R-D36-03, R-D36-04, R-D36-05;
+2026-12-01;D37;D37;Legislação;Estatuto municipal: vantagens e responsabilidade;L-001;87;46;17;N-D37-072, N-D37-073, Q-L-023, F-D37-01, F-D37-02, F-D37-03, F-D37-04, F-D37-05;
+2026-12-02;D38;D38;Simulado;SIMULADO 3 — Intensificação e gestão do tempo;;;;;;SIM-3
+2026-12-03;D39;D39;Conhecimentos Específicos;Responsabilidade tributária, fiscalização e dívida ativa;E-021;87;46;17;N-D39-074, N-D39-075, Q-E-006, Q-E-007, R-D39-01, R-D39-02, R-D39-03, R-D39-04;
+2026-12-04;D40;D40;Noções de Informática;Segurança: golpes, backups e protocolos;I-039, I-040, I-041, I-042, I-043, I-044, I-045, I-046, I-047, I-050, I-051, I-052, I-057, I-058, I-059, I-060, I-061, I-062, I-063;87;46;17;N-D40-076, N-D40-077, Q-I-012, Q-I-013, Q-I-014, F-D40-01, F-D40-02, F-D40-03;
+2026-12-05;D41;D41;Conhecimentos Gerais;História, geografia e cultura: Brasil, MG e município;G-015, G-016, G-017, G-018, G-019, G-020, G-021, G-022, G-023, G-024, G-025, G-026, G-027, G-028, G-029, G-030, G-031, G-032, G-033, G-034, G-035, G-036, G-037, G-038, G-039, G-040, G-041;87;46;17;N-D41-078, N-D41-079, Q-G-008, Q-G-010, Q-G-011, Q-G-012, Q-G-013, Q-G-015;
+2026-12-07;D42;D42;Conhecimentos Específicos;Imunidade, isenção e limites constitucionais;E-032, E-033;87;46;17;N-D42-080, N-D42-081, Q-E-011, F-D42-01, F-D42-02, F-D42-03, F-D42-04, F-D42-05;
+2026-12-08;D43;D43;Simulado;SIMULADO 4 — Reta final, prova completa;;;;;;SIM-4
+2026-12-09;D44;D44;Legislação;Lei de Acesso à Informação e Decreto MG 45.969/2012;L-024, L-025;87;46;17;N-D44-082, N-D44-083, Q-L-015, Q-L-016, Q-L-017, F-D44-01, F-D44-02, F-D44-03;
+2026-12-10;D45;D45;Conhecimentos Específicos;Custeio de iluminação pública, taxas e contribuição de melhoria;E-026, E-027;87;46;17;N-D45-084, N-D45-085, Q-E-016, Q-E-003, Q-E-004, F-D45-01, F-D45-02, F-D45-03;
+2026-12-11;D46;D46;Língua Portuguesa;Sintaxe, semântica e figuras de linguagem;P-010, P-011, P-029, P-030, P-031, P-032, P-036;87;46;17;N-D46-086, N-D46-087, Q-P-009, Q-P-010, Q-P-011, F-D46-01, F-D46-02, F-D46-03;
+2026-12-12;D47;D47;Revisão final;REVISÃO FINAL — 12/12: fichas, legislação e estratégia;E-034, E-035, E-036, E-037;55;35;30;N-D47-088, N-D47-089, R-D47-01, R-D47-02, R-D47-03, R-D47-04, R-D47-05, R-D47-06;

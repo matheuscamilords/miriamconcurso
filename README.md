@@ -1,106 +1,53 @@
-# Miriam Estudos — Agente Fiscal de Tributos (São João del-Rei/MG)
+# Miriam Estudos — reconstrução de 47 datas (20/10–12/12/2026)
 
-**Versão funcional de desenvolvimento, ainda NÃO certificada como curso preparatório completo.**
+Curso estático para a candidata Miriam, cargo 325 — **Agente Fiscal de Tributos**, São João del-Rei/MG, concurso IBGP, Edital 02/2026 retificado. O conteúdo está no próprio site, e não depende de chamada à IA ou serviço pago durante as sessões.
 
-Plataforma estática gratuita, inteiramente local, para o cargo **325 — Agente Fiscal de Tributos**, Edital 02/2026, IBGP, prova prevista em 13/12/2026. As aulas e exercícios podem ser usados sem API, conta, mensalidade ou login. Os arquivos PDF anexados foram incluídos para consulta. O site contém alertas transparentes sobre pendências de completude e vigência jurídica.
+## Conteúdo efetivamente incluído
 
-## Como utilizar agora
+- **47 datas fixas e navegáveis**, com estudo de segunda a sábado e descanso nos domingos.
+- **43 sessões com teoria autoral individualizada**: 42 aulas disciplinares e uma revisão final; quatro datas são simulados completos.
+- **8 questões fixas por aula** (344 posições de exercícios), todas com quatro alternativas, gabarito e comentários; contém explicações básicas, casos aplicados e leitura ativa.
+- **371 questões autorais no banco**, sendo 144 do banco anterior, 89 situações aplicadas novas, 84 de fixação de conceitos e 54 de interpretação do texto; **zero questões reais da IBGP autenticadas**.
+- **4 simulados com 30 questões** e 100 pontos, com cinco questões de cada matéria e os pesos oficiais.
+- **371 flashcards**, caderno de erros, cronômetro, notas, estatísticas, marcações do edital, backup JSON e funcionamento responsivo.
+- **243 subtópicos do edital verticalizado distribuídos em datas**, com matriz de rastreabilidade e alertas específicos de sobrecarga temática.
+- PDF do edital, anexos, Lei Orgânica, Estatuto Municipal e Código Tributário Municipal anexados para consulta.
 
-1. Extraia o ZIP mantendo suas pastas.
-2. Abra um terminal **dentro da pasta `miriam-estudos`**.
-3. Se houver Python instalado, execute `python -m http.server 8000` (Windows) ou `python3 -m http.server 8000` (Linux/macOS).
-4. Acesse **http://localhost:8000/** pelo navegador. Não abra `index.html` diretamente por `file://`, pois os módulos JavaScript podem sofrer bloqueio de segurança.
-5. Clique em **Iniciar estudo de hoje** ou escolha uma data em **Cronograma**.
+## Atenção: diferença entre implementação e certificação
 
-### O que está implementado
+**O site foi reconstruído para todas as datas, mas não posso declarar que a cobertura jurídico-pedagógica integral foi certificada.** Há aulas com 14–27 subtópicos indexados para uma única sessão, o que sinaliza risco de profundidade insuficiente. O guia textual possui aproximadamente 450–735 palavras por data, mais as questões, fontes e atividades: a duração de 2h30 inclui consulta das referências legais, exercícios, correção e revisão, não leitura contínua da síntese.
 
-- 47 sessões datadas de 20/10 a 12/12, com domingos reservados ao descanso;
-- 42 sínteses introdutórias originais, quatro simulados de 30 questões e uma revisão final, com indicações de duração (duração planejada, **não garantida** pela extensão atual das aulas);
-- 144 questões autorais com quatro alternativas, explicações e assunto, reutilizáveis para treino e revisão espaçada; quatro simulados de 30 questões usam **120 questões distintas entre si**;
-- sistema de respostas, cálculo de acertos e nota ponderada, cronômetro de 3 horas e correção do simulado após entrega;
-- 144 flashcards, classificação de dificuldade, marcações e caderno de erros;
-- edital verticalizado interativo com 243 subtópicos, marcações de primeira/segunda/terceira passagem e ligação preliminar às sessões;
-- estatísticas provenientes apenas das respostas e registros da estudante;
-- tema escuro, layout responsivo, persistência em `localStorage`, exportação e importação de backup JSON;
-- cache offline dos principais arquivos após a primeira visita bem-sucedida em HTTPS e acesso aos PDFs municipais fornecidos.
+A auditoria automática verifica arquivo, cronologia, pontuação, gabaritos bem-formados, quantidades, roteirização e ausência de mistura de **disciplinas**. **Não comprova** que todos os 243 subtópicos foram ensinados com profundidade equivalente, nem que cada questão jurídica foi validada por revisor humano independente. Alguns exercícios são de memorização básica e não pretendem reproduzir o nível de dificuldade de uma prova real. As leis municipais em PDF podem estar desatualizadas; verifique a redação oficial consolidada e as regras temporais do edital.
 
-## O que NÃO está concluído
+Consulte [AUDITORIA.md](AUDITORIA.md), [MATRIZ_DE_COBERTURA.csv](MATRIZ_DE_COBERTURA.csv) e [CRONOGRAMA_FIXO.csv](CRONOGRAMA_FIXO.csv) antes de utilizar como fonte exclusiva.
 
-**Esta versão não atende integralmente às exigências de profundidade e cobertura do prompt de origem.**
+## Atualizar o repositório que você já possui
 
-- Em 243 subtópicos do roteiro, apenas 50 apresentaram correspondência textual preliminar suficientemente clara com alguma aula. **Isso não significa que os 50 foram revisados e aprovados por especialista; 193 carecem de validação e possível produção didática específica.** A vinculação de rota para todos os 243 serve apenas para navegação e *não* constitui prova de cobertura.
-- As sínteses introdutórias são curtas para preencher com autonomia sessões de duas horas e meia; precisa-se aprofundar o curso e produzir exercícios inéditos adicionais nos pontos ainda não abordados.
-- A auditoria de enunciados é estrutural: **não ocorreu revisão jurídico-pedagógica humana independente, individualizada, de todas as questões**. Os comentários são fundamentações sintéticas, e nem todos analisam cada alternativa errada individualmente.
-- **Zero questões reais da IBGP** foram reproduzidas ou autenticadas; todas as 144 estão corretamente marcadas como autorais.
-- As versões dos textos municipais anexados **não foram certificadas como consolidadas até a data exigível pelo edital**. Há normas posteriores que exigem verificação específica, sobretudo no Código Tributário.
-- O teste de navegador gráfico automatizado ficou bloqueado por restrição de navegação da infraestrutura de execução. Há testes estruturais e de execução do aplicativo em ambiente simulado; **isso não equivale a uma validação visual cross-browser**.
-- O projeto não foi publicado no GitHub: a publicação depende do usuário ou da autorização de acesso ao repositório.
+Repositório identificado pelo usuário: **https://github.com/matheuscamilords/miriamconcurso**.
 
-**Não empregar esta versão como único material de preparação até que as pendências sejam eliminadas.**
+1. Baixe o ZIP e extraia. Abra a pasta `miriam-estudos`.
+2. Em https://github.com/matheuscamilords/miriamconcurso, clique em **Add file → Upload files**.
+3. Arraste **o conteúdo de dentro da pasta** para a raiz do repositório, inclusive `index.html`, `src/`, `public/`, `scripts/` e `.github/`. O GitHub pode ter limitações para envio de diretórios/pastas ocultas pelo navegador; se necessário, use o GitHub Desktop para atualização completa.
+4. Confirme a substituição dos arquivos existentes no commit. Se a interface impedir substituir arquivos via upload, use **GitHub Desktop** para clonar o repositório, copiar o conteúdo e executar commit/push; não apague arquivos sem ter backup.
+5. Vá a **Settings → Pages** e mantenha **GitHub Actions**. Acompanhe **Actions → Publicar Miriam Estudos**.
+6. Após sucesso, acesse **https://matheuscamilords.github.io/miriamconcurso/**. Pode ser necessário atualizar a aba para receber os novos arquivos; o service worker desta edição usa prioridade à rede.
 
-## Publicação gratuita no GitHub Pages
+**Este pacote não altera seu GitHub automaticamente.** O progresso salvo no navegador é mantido sob a mesma chave; se houver progresso importante da versão antiga, exporte backup antes de atualizar.
 
-É possível publicar o estado atual, respeitando os avisos pedagógicos, em um repositório privado ou público conforme políticas de visibilidade do GitHub Pages (as condições de visibilidade e planos devem ser conferidas). Para facilitar a publicação gratuita, use um repositório **público**:
+## Desenvolvimento e auditoria
 
-1. Entre no GitHub e crie um repositório público chamado `miriam-estudos`, **sem** criar README inicial. Não é necessário instalar React, Node ou dependências.
-2. Descompacte o ZIP e abra terminal dentro da pasta `miriam-estudos`.
-3. Execute os comandos a seguir, **trocando `SEU-USUARIO` pelo usuário real no GitHub**:
+Não são necessários React, Node nem outras dependências em tempo de execução. Opcionalmente, sirva a pasta localmente com `python -m http.server 8000` e abra `http://localhost:8000`.
 
-```bash
-git init
-git branch -M main
-git add .
-git commit -m "Adicionar plataforma Miriam Estudos"
-git remote add origin https://github.com/SEU-USUARIO/miriam-estudos.git
-git push -u origin main
-```
+- `scripts/aulas_aprofundadas.py` — texto individual de cada data de aula;
+- `scripts/casos_resolvidos.py` — oficinas didáticas por aula;
+- `scripts/questoes_casos.txt` — exercícios aplicados próprios da data;
+- `scripts/course-data-original.json` — matriz base de sessões, leis e questões anteriores;
+- `scripts/rebuild_complete.py` — regeneração determinística dos dados (não reordena sessões);
+- `scripts/audit.py` — integridade e geração de relatórios e matriz de cobertura;
+- `scripts/smoke.mjs` — teste de execução do aplicativo simulado;
+- `src/data/course.js` — todo o conteúdo já integrado para o site publicar;
+- `.github/workflows/pages.yml` — auditoria e implantação automática pelo GitHub Pages.
 
-4. No repositório do GitHub, abra **Settings → Pages → Build and deployment → Source** e escolha **GitHub Actions**.
-5. Na aba **Actions**, aguarde o workflow `Publicar Miriam Estudos`. Caso ele ainda não esteja ativo, execute `Run workflow` manualmente.
-6. O endereço esperado após a publicação será `https://SEU-USUARIO.github.io/miriam-estudos/`. **Confirme pelo próprio GitHub se a implantação ocorreu antes de divulgar.**
+Para regenerar, execute `python scripts/rebuild_complete.py`, `python scripts/audit.py` e `node scripts/smoke.mjs`. O teste visual de Chromium local foi bloqueado por política do ambiente, de modo que não se afirma validação em navegador real.
 
-O workflow `.github/workflows/pages.yml` executa a auditoria estrutural e publica os arquivos estáticos. O JavaScript usa referências relativas, que funcionam em subdiretórios de repositórios do GitHub Pages.
-
-## Estrutura e atualização
-
-```text
-index.html                     página inicial
-src/styles.css                 interface adaptável
-src/app.js                     navegação, simulados, progresso e backup
-src/data/course.js             base integrada de conteúdos
-scripts/sessions.tsv           planejamento e sínteses editáveis
-scripts/questions.tsv          banco de questões autorais
-scripts/generate.py            recompila src/data/course.js
-scripts/audit.py               verificações de consistência
-scripts/smoke.mjs              teste sem navegador físico
-scripts/normative_readings.json   trechos literais dos PDFs fornecidos
-public/fontes/                 documentos oficiais fornecidos
-MATRIZ_DE_COBERTURA.csv        rastreabilidade com ressalvas de validação
-AUDITORIA.md/json             resultado da auditoria automática
-sw.js                         cache offline em HTTPS
-.github/workflows/pages.yml   publicação no GitHub
-```
-
-Para atualizar uma aula ou uma questão:
-
-1. Edite `scripts/sessions.tsv` ou `scripts/questions.tsv` (o caractere `|` separa campos: **não o insira livremente nos textos**).
-2. Execute `python3 scripts/generate.py`. O script usa `scripts/verticalizado-extraido.txt` e a base de leituras legais anexas.
-3. Execute `python3 scripts/audit.py` e `node scripts/smoke.mjs` (se Node estiver disponível).
-4. Faça commit e push. **Preserve os IDs das sessões e questões já respondidas** para não perder o vínculo com backups antigos.
-5. Se alterar recursos offline, incremente `CACHE` no arquivo `sw.js` (por exemplo, de `v1` para `v2`) e confirme a atualização após publicar.
-
-### Backup e privacidade
-
-O progresso fica no `localStorage` do navegador e não se sincroniza entre celulares e computadores. A limpeza dos dados do navegador pode apagá-lo. Use **Ajustes → Exportar backup JSON** periodicamente e **Ajustes → Importar backup** no novo dispositivo. A importação pede confirmação antes de substituir dados. O arquivo JSON contém respostas e progresso individual, que devem ser mantidos em local seguro.
-
-## Fontes normativas e autorais
-
-Edital nº 02/2026 retificado, retificação nº 01, Anexos I/III/IV, edital verticalizado e as três normas municipais entregues pelo solicitante. Há links para Planalto, ALMG, Câmara Municipal de São João del-Rei e site da IBGP na tela Biblioteca. A atenção a prazo de vigência e às alterações posteriores está destacada no curso.
-
-As prioridades P1/P2/P3 são **sugestões do roteiro didático**, não classificação oficial da banca.
-
-## Auditoria e qualidade
-
-Execute `python3 scripts/audit.py` e leia `AUDITORIA.md`. A consistência estrutural verifica número e datas de sessões, formato e unicidade de questões, alternativas, pesos dos simulados, cartões e ligações de navegação. `node scripts/smoke.mjs` executa renderização simulada e testa abertura das 47 sessões, correção de questão, nota de simulado, flashcards, edição de dados locais e navegação básica, mas não valida CSS real em celular.
-
-**Licença:** arquivos de autoria do projeto podem ser editados para uso próprio; os PDFs normativos conservam sua origem e eventuais restrições aplicáveis. Não há licença ou afiliação da banca IBGP.
+**Uso pedagógico independente**; não afiliado ao IBGP, à Prefeitura nem a cursos comerciais.
